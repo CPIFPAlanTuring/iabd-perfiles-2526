@@ -14,6 +14,8 @@ Enlaces a los perfiles de GitHub de alumnos y profesores del Centro Público Int
 
 
 * [Apellidos, Nombre]()
+* [Gálvez Madueño, Alejandro](https://github.com/AGALMAD)
+
 
 
 :star: Si te gusta este repo, dale una estrellita :wink:
