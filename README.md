@@ -16,6 +16,7 @@ Enlaces a los perfiles de GitHub de alumnos y profesores del Máster FP en Intel
 * [Chacón Macías, Juan Francisco](https://github.com/JuanFranCM)
 * [Gálvez Madueño, Alejandro](https://github.com/AGALMAD)
 * [Herrera Sánchez, Jesús](https://github.com/Jesushs4)
+* [López Guerrero, Álvaro](https://github.com/Alvalogue72)
 * [Robles Ruiz, Elías](https://github.com/eliasrrobles)
 * [Sihammou Anahnah, Ismael](https://github.com/shism04)
 * [Vacas López, Cristina](https://github.com/flashtime-dev)
